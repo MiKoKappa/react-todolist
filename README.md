@@ -1,3 +1,10 @@
+## Basic Info
+
+This project was created based on a React tutorial for internship purpouses.
+Every big programmer starts with a todo list but don't let your creativity die! :D
+
+### Link to app: https://mikokappa.github.io/react-todolist/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
